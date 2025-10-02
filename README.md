@@ -10,9 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SzupanBurliga/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [3336-water-bottles-ii](https://github.com/SzupanBurliga/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3830-find-closest-person](https://github.com/SzupanBurliga/LeetCode/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SzupanBurliga/LeetCode/tree/master/0136-single-number) |
+## Simulation
+|  |
+| ------- |
+| [3336-water-bottles-ii](https://github.com/SzupanBurliga/LeetCode/tree/master/3336-water-bottles-ii) |
 <!---LeetCode Topics End-->
