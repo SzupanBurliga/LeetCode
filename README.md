@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SzupanBurliga/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1642-water-bottles](https://github.com/SzupanBurliga/LeetCode/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/SzupanBurliga/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3830-find-closest-person](https://github.com/SzupanBurliga/LeetCode/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
@@ -19,5 +20,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/SzupanBurliga/LeetCode/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/SzupanBurliga/LeetCode/tree/master/3336-water-bottles-ii) |
 <!---LeetCode Topics End-->
