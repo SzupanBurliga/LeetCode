@@ -6,10 +6,8 @@ class Solution {
             empty -= numExchange;
             count++;       
             empty++;       
-
             numExchange++; 
         }
-
         return count;
     }
 }
