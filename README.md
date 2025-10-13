@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/SzupanBurliga/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SzupanBurliga/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/SzupanBurliga/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/SzupanBurliga/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SzupanBurliga/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1612-avoid-flood-in-the-city](https://github.com/SzupanBurliga/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SzupanBurliga/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SzupanBurliga/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/SzupanBurliga/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SzupanBurliga/LeetCode/tree/master/0242-valid-anagram) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/SzupanBurliga/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/SzupanBurliga/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SzupanBurliga/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Sorting
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SzupanBurliga/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/SzupanBurliga/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SzupanBurliga/LeetCode/tree/master/0242-valid-anagram) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/SzupanBurliga/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SzupanBurliga/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SzupanBurliga/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Two Pointers
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SzupanBurliga/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/SzupanBurliga/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SzupanBurliga/LeetCode/tree/master/0242-valid-anagram) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/SzupanBurliga/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Binary Search
 |  |
 | ------- |
