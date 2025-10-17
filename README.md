@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SzupanBurliga/LeetCode/tree/master/0136-single-number) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/SzupanBurliga/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Simulation
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SzupanBurliga/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SzupanBurliga/LeetCode/tree/master/0242-valid-anagram) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SzupanBurliga/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/SzupanBurliga/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -123,9 +125,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/SzupanBurliga/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SzupanBurliga/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Counting
 |  |
 | ------- |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SzupanBurliga/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+## Bitmask
+|  |
+| ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/SzupanBurliga/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 <!---LeetCode Topics End-->
