@@ -6,14 +6,14 @@ class Solution {
         Arrays.sort(nums);
 
         int out = 0;
-        int last_y = Integer.MIN_VALUE; 
+        int last = Integer.MIN_VALUE; 
 
         for (int x : nums) {
             
-            int y = Math.max(x - k, last_y + 1);
+            int y = Math.max(x - k, last + 1);
             
             if (y <= x + k) {
-                last_y = y;
+                last = y;
                 out++;
             }
         }
