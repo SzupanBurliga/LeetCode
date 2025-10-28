@@ -17,7 +17,7 @@ class Solution {
                         j += right ? 1 : -1;
                     }
                 }
-                
+
                 boolean allZero = true;
                 for (int x : a1) if (x != 0) { allZero = false; break; }
                 if (allZero) out++;
@@ -35,7 +35,9 @@ class Solution {
                     }
                 }
                 allZero = true;
-                for (int x : a2) if (x != 0) { allZero = false; break; }
+                for (int x : a2) if (x != 0) { 
+                    allZero = false; break;
+                    }
                 if (allZero) out++;
             }
         }
