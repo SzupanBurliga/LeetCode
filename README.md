@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SzupanBurliga/LeetCode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/SzupanBurliga/LeetCode/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/SzupanBurliga/LeetCode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SzupanBurliga/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/SzupanBurliga/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/SzupanBurliga/LeetCode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/SzupanBurliga/LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SzupanBurliga/LeetCode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/SzupanBurliga/LeetCode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SzupanBurliga/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/SzupanBurliga/LeetCode/tree/master/0283-move-zeroes) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SzupanBurliga/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SzupanBurliga/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SzupanBurliga/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0794-swim-in-rising-water](https://github.com/SzupanBurliga/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/SzupanBurliga/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SzupanBurliga/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
