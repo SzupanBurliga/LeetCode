@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/SzupanBurliga/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/SzupanBurliga/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SzupanBurliga/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1200-minimum-absolute-difference](https://github.com/SzupanBurliga/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SzupanBurliga/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SzupanBurliga/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1612-avoid-flood-in-the-city](https://github.com/SzupanBurliga/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SzupanBurliga/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/SzupanBurliga/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SzupanBurliga/LeetCode/tree/master/0242-valid-anagram) |
+| [1200-minimum-absolute-difference](https://github.com/SzupanBurliga/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SzupanBurliga/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SzupanBurliga/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SzupanBurliga/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
