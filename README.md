@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SzupanBurliga/LeetCode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/SzupanBurliga/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/SzupanBurliga/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/SzupanBurliga/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/SzupanBurliga/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SzupanBurliga/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/SzupanBurliga/LeetCode/tree/master/0217-contains-duplicate) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SzupanBurliga/LeetCode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/SzupanBurliga/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/SzupanBurliga/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/SzupanBurliga/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/SzupanBurliga/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SzupanBurliga/LeetCode/tree/master/0242-valid-anagram) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SzupanBurliga/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -297,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SzupanBurliga/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SzupanBurliga/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
