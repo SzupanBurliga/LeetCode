@@ -14,11 +14,8 @@
  * }
  */
 class Solution {
-    public boolean balance = true;
+    boolean balance = true;
     public boolean isBalanced(TreeNode root) {
-        if(root == null){
-            return true;
-        }
         dfs(root);
         return balance;
     }
@@ -28,7 +25,6 @@ class Solution {
         }
         int left = dfs(root.left);
         int right = dfs(root.right);
-
         if(Math.abs(left - right) > 1){
             balance = false;
         }
