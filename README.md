@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SzupanBurliga/LeetCode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SzupanBurliga/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SzupanBurliga/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1642-water-bottles](https://github.com/SzupanBurliga/LeetCode/tree/master/1642-water-bottles) |
@@ -65,12 +66,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SzupanBurliga/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SzupanBurliga/LeetCode/tree/master/0136-single-number) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/SzupanBurliga/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SzupanBurliga/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SzupanBurliga/LeetCode/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/SzupanBurliga/LeetCode/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SzupanBurliga/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/SzupanBurliga/LeetCode/tree/master/2169-simple-bank-system) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SzupanBurliga/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/SzupanBurliga/LeetCode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/SzupanBurliga/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/SzupanBurliga/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SzupanBurliga/LeetCode/tree/master/0242-valid-anagram) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SzupanBurliga/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
