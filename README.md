@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3676-smallest-number-with-all-set-bits](https://github.com/SzupanBurliga/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SzupanBurliga/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/SzupanBurliga/LeetCode/tree/master/3830-find-closest-person) |
+| [3870-count-commas-in-range](https://github.com/SzupanBurliga/LeetCode/tree/master/3870-count-commas-in-range) |
 ## Bit Manipulation
 |  |
 | ------- |
