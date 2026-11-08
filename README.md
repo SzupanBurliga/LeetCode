@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SzupanBurliga/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1200-minimum-absolute-difference](https://github.com/SzupanBurliga/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SzupanBurliga/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SzupanBurliga/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SzupanBurliga/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1612-avoid-flood-in-the-city](https://github.com/SzupanBurliga/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SzupanBurliga/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SzupanBurliga/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1200-minimum-absolute-difference](https://github.com/SzupanBurliga/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SzupanBurliga/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SzupanBurliga/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SzupanBurliga/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SzupanBurliga/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SzupanBurliga/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SzupanBurliga/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/SzupanBurliga/LeetCode/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SzupanBurliga/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SzupanBurliga/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SzupanBurliga/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SzupanBurliga/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Greedy
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SzupanBurliga/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/SzupanBurliga/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/SzupanBurliga/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SzupanBurliga/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1612-avoid-flood-in-the-city](https://github.com/SzupanBurliga/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SzupanBurliga/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SzupanBurliga/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
